@@ -1,0 +1,59 @@
+body{
+	background-image: url(homepage.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:#E1E1E1;
+	font-family: Georgia, serif;
+}
+h1{
+	text-align: center;
+	font-size: 30pt;
+	letter-spacing: 0.25em;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #111;
+}
+
+li {
+    float: left;
+}
+li a{
+	color:#00BFC5;
+	font-size: 18pt;
+	text-decoration: none;
+	text-align: center;
+	margin: 5px 80px 5px 80px;
+
+}
+li a:hover {
+    background-color: #333;
+}
+#intro{
+	overflow: hidden;
+	background-image: url(hacker.jpg);
+	font-size: 15pt;
+	text-align: center;
+}
+.botton{
+	float:left;
+	width:180px;
+	height: 180px;
+	text-align: center;
+	line-height: 180px;
+	margin: 120px 132px 5px 132px;
+	background-color: #111;
+	
+}
+a{
+	color:#00BFC5;	
+	text-decoration: none;
+	font-size: 18pt;
+	
+}
+
+}
+

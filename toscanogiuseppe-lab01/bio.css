@@ -1,0 +1,52 @@
+body{
+	background-color: white;
+	background-image: url(secure.png);
+	background-repeat: repeat-y;
+	background-attachment: fixed;
+	background-position: right;
+	color: #404040;
+	font-family: Georgia;
+	font-size: 11pt;
+
+
+}
+h1{
+	text-align: center;
+	font-size: 22pt;
+	letter-spacing: 0.25em;
+}
+.h2{
+	color: #A4A400 ;
+	background-color:#F0F0F0;
+	font-family: Lucida Sans Unicode, Helvetica, Arial;  
+	font-size: 18pt;
+	text-decoration: underline;
+	letter-spacing: 0.25em;
+}
+.profile{
+	float:right;
+	width: 240px;
+	height: 240px;
+	border: 1px solid black;
+	box-shadow: -10px 13px 5px #dedede;
+}
+a{
+	color:  #A4A400;
+}
+a:hover{
+	color:#404040;
+}
+div{
+	overflow: hidden;
+
+}
+.olist{
+	margin: 10px;
+}
+.ulist{
+	margin: 10px;
+	list-style-image: url("icon-list.jpg");
+}
+.validator{
+	float:right;
+}
